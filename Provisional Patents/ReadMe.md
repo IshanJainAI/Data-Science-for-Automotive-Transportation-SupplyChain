@@ -3,6 +3,9 @@ Here, I present two provisional Indian patent-applications filed by me while wor
 
 ## Provisional Patent 1 - Battery Predictive Maintenance 
 
+Link => [Click Here](https://github.com/IshanJainAI/ML-AI-for-Automotive-Electric-Mobility/tree/main/Provisional%20Patents/Provisional%20Patent%201%20-%20Battery%20Predictive%20Maintenance)
+
+
 The present disclosure relates to a system that predicts when maintenance of a battery may be needed and what actions might be required. 
 It further elaborates upon a system that can enable prediction of the required maintenance of rechargeable batteries such as Lithium ion batteries. 
 
