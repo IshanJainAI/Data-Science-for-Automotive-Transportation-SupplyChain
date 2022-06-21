@@ -23,6 +23,8 @@ Battery's Connections are defined in following ways:
 
 
 ## Provisional Patent 2 - Smart Helmet Design
+Link => [Click Here](https://github.com/IshanJainAI/ML-AI-for-Automotive-Electric-Mobility/tree/main/Provisional%20Patents/Provisional%20Patent%202%20-%20Smart%20Helmet%20Design)
+
 The present disclosures relates to smart helmet equipped with wireless charging and a dynamic screen display. 
 
 This design is highly suitable for personalized advertisement and emergency alerts by government, food, grocery, and packages delivery companies and related organizations. 
