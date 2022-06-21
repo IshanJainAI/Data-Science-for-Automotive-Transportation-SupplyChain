@@ -1,5 +1,10 @@
 # Provisional Patents in the electric-mobility industry (2019 - 2022) 
-Here, I present two provisional Indian patent-applications filed by me while working in an E-Mobility Company. 
+Here, I present two provisional Indian patent-applications filed by me while working in an E-Mobility Company.
+
+# Inventor
+Ishan Jain
+ishanjain.ai@gmail.com
+
 
 ## Provisional Patent 1 - Battery Predictive Maintenance 
 
