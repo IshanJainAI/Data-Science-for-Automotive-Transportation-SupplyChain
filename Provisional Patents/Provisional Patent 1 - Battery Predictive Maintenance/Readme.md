@@ -4,8 +4,8 @@ The present disclosure relates to a system that predicts when maintenance of a b
 
 Battery's Connections are defined in following ways:
 
-Electrode’s connection
-Battery management System (BMS) using sense wires
-BMS to Data-logger (DL) using communication cable
-GSM or Network connectivity
-Charger to battery connections
+1. Electrode’s connection
+2. Battery management System (BMS) using sense wires
+3. BMS to Data-logger (DL) using communication cable
+4. GSM or Network connectivity
+5. Charger to battery connections
