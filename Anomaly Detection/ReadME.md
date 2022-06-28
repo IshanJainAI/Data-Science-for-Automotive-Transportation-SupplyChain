@@ -23,3 +23,12 @@ From predictive maintenance to regulatory compliance, use-cases are abundant for
 5. Real-time alerts
 6. Predictive maintenance
 7. Utility and energy optimization
+
+# Author
+Ishan Jain
+ 
+# LinkedIn
+https://www.linkedin.com/in/ishanjainofficial/
+ 
+# Medium.com
+https://medium.com/@ishanjain-ai
