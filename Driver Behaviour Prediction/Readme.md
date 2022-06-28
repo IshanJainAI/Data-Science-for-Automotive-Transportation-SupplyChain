@@ -1,11 +1,11 @@
 # Driver Behaviour Prediction
 
-# Author 
+# Author
 Ishan Jain
-
-# Objective
-
-
-# Method
-
+ 
+# LinkedIn
+https://www.linkedin.com/in/ishanjainofficial/
+ 
+# Medium.com
+https://medium.com/@ishanjain-ai
 
