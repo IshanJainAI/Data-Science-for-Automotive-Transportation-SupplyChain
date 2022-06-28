@@ -5,6 +5,9 @@
 
 3. Location Intelligence along with Consumer transaction data can be used for reducing fraud and theft around the world. 
 
+# Data Theft 
+For businesses, the impact of data breaches can be devastating, both in terms of financial cost and reputational damage. 
+The average cost of a data breach was more than $1.2 million in 2018
 
 
 # Author
