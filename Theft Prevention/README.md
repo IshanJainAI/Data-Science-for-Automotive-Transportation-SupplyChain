@@ -10,8 +10,7 @@ For businesses, the impact of data breaches can be devastating, both in terms of
 The average cost of a data breach was more than $1.2 million in 2018
 
 
-# Author
-Ishan Jain
+# Ishan Jain
  
 # LinkedIn
 https://www.linkedin.com/in/ishanjainofficial/
